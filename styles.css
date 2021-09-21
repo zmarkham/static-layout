@@ -1,0 +1,37 @@
+body {
+    background-color: teal;
+    margin: 0%;
+    text-align: center;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    background-color: transparent;
+    height: 100px;
+    width: 100%;
+}
+
+.nav-item {
+    color: white;
+    font-family: ;
+    text-align: end;
+}
+
+.WatchParties {
+    background-color: blue;
+    background: linear-gradient(purple);
+    text-align: center;
+    color: white;
+}
+
+button{
+    background-color: orange;
+    color: white;
+    border: none;
+    height: 40px;
+    width: 100px;
+    font-size: large;
+    font-weight: bolder; 
+}
+
+
